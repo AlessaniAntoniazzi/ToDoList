@@ -1,0 +1,15 @@
+/home/alessani/Documents/Projects/ToDoList/bin/Debug/net6.0/ToDoList
+/home/alessani/Documents/Projects/ToDoList/bin/Debug/net6.0/ToDoList.deps.json
+/home/alessani/Documents/Projects/ToDoList/bin/Debug/net6.0/ToDoList.runtimeconfig.json
+/home/alessani/Documents/Projects/ToDoList/bin/Debug/net6.0/ToDoList.dll
+/home/alessani/Documents/Projects/ToDoList/bin/Debug/net6.0/ref/ToDoList.dll
+/home/alessani/Documents/Projects/ToDoList/bin/Debug/net6.0/ToDoList.pdb
+/home/alessani/Documents/Projects/ToDoList/obj/Debug/net6.0/ToDoList.csproj.AssemblyReference.cache
+/home/alessani/Documents/Projects/ToDoList/obj/Debug/net6.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/home/alessani/Documents/Projects/ToDoList/obj/Debug/net6.0/ToDoList.AssemblyInfoInputs.cache
+/home/alessani/Documents/Projects/ToDoList/obj/Debug/net6.0/ToDoList.AssemblyInfo.cs
+/home/alessani/Documents/Projects/ToDoList/obj/Debug/net6.0/ToDoList.csproj.CoreCompileInputs.cache
+/home/alessani/Documents/Projects/ToDoList/obj/Debug/net6.0/ToDoList.dll
+/home/alessani/Documents/Projects/ToDoList/obj/Debug/net6.0/ref/ToDoList.dll
+/home/alessani/Documents/Projects/ToDoList/obj/Debug/net6.0/ToDoList.pdb
+/home/alessani/Documents/Projects/ToDoList/obj/Debug/net6.0/ToDoList.genruntimeconfig.cache
